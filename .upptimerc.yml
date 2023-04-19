@@ -11,6 +11,8 @@ sites:
     url: https://pmnr.xmr.rocks
   - name: lookrativ.de
     url: https://lookrativ.de
+  - name: kunst-kasten.de
+    url: https://kunst-kasten.de
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
