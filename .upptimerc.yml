@@ -1,0 +1,29 @@
+# Change these first
+owner: ASchmidt1024 # Your GitHub organization or username, where this repository lives
+repo: uptime-akjs # The name of this repository
+
+sites:
+  - name: akjs.io
+    url: https://akjs.io
+  - name: xrm.rocks
+    url: https://xmr.rocks
+  - name: pmnr.xrm.rocks
+    url: https://pmnr.xmr.rocks
+
+status-website:
+  # Add your custom domain name, or remove the `cname` line if you don't have a domain
+  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  # cname: demo.upptime.js.org
+  baseUrl: /uptime-akjs
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  name: Uptime AKJS
+  introTitle: "**Uptime AKJS** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/$OWNER/$REPO
+
+# Upptime also supports notifications, assigning issues, and more
+# See https://upptime.js.org/docs/configuration
