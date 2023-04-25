@@ -58,19 +58,19 @@
     "url": "https://lookrativ.de",
     "icon": "https://icons.duckduckgo.com/ip3/lookrativ.de.ico",
     "slug": "lookrativ-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 851,
-    "timeDay": 1075,
-    "timeWeek": 851,
-    "timeMonth": 851,
-    "timeYear": 851,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 865,
+    "timeDay": 1029,
+    "timeWeek": 865,
+    "timeMonth": 865,
+    "timeYear": 865,
     "dailyMinutesDown": {
-      "2023-04-25": 0
+      "2023-04-25": 8
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://kunst-kasten.de",
     "icon": "https://icons.duckduckgo.com/ip3/kunst-kasten.de.ico",
     "slug": "kunst-kasten-de",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 751,
-    "timeDay": 808,
-    "timeWeek": 751,
-    "timeMonth": 751,
-    "timeYear": 751,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 781,
+    "timeDay": 913,
+    "timeWeek": 781,
+    "timeMonth": 781,
+    "timeYear": 781,
     "dailyMinutesDown": {
-      "2023-04-25": 0
+      "2023-04-25": 8
     }
   }
 ]
