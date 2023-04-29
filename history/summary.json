@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 804,
-    "timeDay": 758,
-    "timeWeek": 784,
-    "timeMonth": 804,
-    "timeYear": 804,
+    "time": 810,
+    "timeDay": 874,
+    "timeWeek": 798,
+    "timeMonth": 810,
+    "timeYear": 810,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 461,
-    "timeDay": 422,
-    "timeWeek": 450,
-    "timeMonth": 461,
-    "timeYear": 461,
+    "time": 468,
+    "timeDay": 545,
+    "timeWeek": 469,
+    "timeMonth": 468,
+    "timeYear": 468,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 458,
-    "timeDay": 408,
-    "timeWeek": 430,
-    "timeMonth": 458,
-    "timeYear": 458,
+    "time": 461,
+    "timeDay": 494,
+    "timeWeek": 440,
+    "timeMonth": 461,
+    "timeYear": 461,
     "dailyMinutesDown": {}
   },
   {
@@ -59,19 +59,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lookrativ.de.ico",
     "slug": "lookrativ-de",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 805,
-    "timeDay": 740,
-    "timeWeek": 806,
-    "timeMonth": 805,
-    "timeYear": 805,
-    "dailyMinutesDown": {
-      "2023-04-25": 8
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 840,
+    "timeDay": 1272,
+    "timeWeek": 849,
+    "timeMonth": 840,
+    "timeYear": 840,
+    "dailyMinutesDown": {}
   },
   {
     "name": "kunst-kasten.de",
@@ -79,18 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kunst-kasten.de.ico",
     "slug": "kunst-kasten-de",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 769,
-    "timeDay": 936,
-    "timeWeek": 824,
-    "timeMonth": 769,
-    "timeYear": 769,
-    "dailyMinutesDown": {
-      "2023-04-25": 8
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 928,
+    "timeDay": 2847,
+    "timeWeek": 1071,
+    "timeMonth": 928,
+    "timeYear": 928,
+    "dailyMinutesDown": {}
   }
 ]
