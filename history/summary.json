@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 859,
-    "timeDay": 750,
-    "timeWeek": 826,
-    "timeMonth": 850,
-    "timeYear": 859,
+    "time": 860,
+    "timeDay": 1000,
+    "timeWeek": 870,
+    "timeMonth": 860,
+    "timeYear": 860,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 537,
-    "timeDay": 416,
-    "timeWeek": 617,
-    "timeMonth": 579,
-    "timeYear": 537,
+    "time": 538,
+    "timeDay": 670,
+    "timeWeek": 652,
+    "timeMonth": 587,
+    "timeYear": 538,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 521,
-    "timeWeek": 712,
-    "timeMonth": 578,
-    "timeYear": 612,
+    "time": 613,
+    "timeDay": 647,
+    "timeWeek": 715,
+    "timeMonth": 588,
+    "timeYear": 613,
     "dailyMinutesDown": {}
   },
   {
@@ -60,18 +60,16 @@
     "slug": "lookrativ-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 929,
-    "timeDay": 623,
-    "timeWeek": 1053,
-    "timeMonth": 888,
+    "timeDay": 799,
+    "timeWeek": 1094,
+    "timeMonth": 900,
     "timeYear": 929,
-    "dailyMinutesDown": {
-      "2023-08-03": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "kunst-kasten.de",
@@ -80,17 +78,15 @@
     "slug": "kunst-kasten-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 937,
-    "timeDay": 3700,
-    "timeWeek": 1570,
-    "timeMonth": 1039,
+    "timeDay": 3877,
+    "timeWeek": 1609,
+    "timeMonth": 1049,
     "timeYear": 937,
-    "dailyMinutesDown": {
-      "2023-08-03": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
