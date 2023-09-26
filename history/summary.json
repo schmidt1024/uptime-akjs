@@ -42,16 +42,18 @@
     "slug": "pmnr-xrm-rocks",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 613,
-    "timeDay": 668,
-    "timeWeek": 631,
-    "timeMonth": 607,
-    "timeYear": 613,
-    "dailyMinutesDown": {}
+    "time": 612,
+    "timeDay": 594,
+    "timeWeek": 617,
+    "timeMonth": 604,
+    "timeYear": 612,
+    "dailyMinutesDown": {
+      "2023-09-26": 6
+    }
   },
   {
     "name": "lookrativ.de",
