@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 858,
-    "timeDay": 1085,
-    "timeWeek": 846,
-    "timeMonth": 837,
-    "timeYear": 858,
+    "time": 857,
+    "timeDay": 755,
+    "timeWeek": 870,
+    "timeMonth": 839,
+    "timeYear": 857,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 567,
-    "timeDay": 679,
-    "timeWeek": 590,
-    "timeMonth": 608,
-    "timeYear": 567,
+    "time": 568,
+    "timeDay": 720,
+    "timeWeek": 603,
+    "timeMonth": 614,
+    "timeYear": 568,
     "dailyMinutesDown": {}
   },
   {
@@ -42,18 +42,16 @@
     "slug": "pmnr-xrm-rocks",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 612,
-    "timeDay": 594,
-    "timeWeek": 617,
-    "timeMonth": 604,
-    "timeYear": 612,
-    "dailyMinutesDown": {
-      "2023-09-26": 6
-    }
+    "time": 611,
+    "timeDay": 516,
+    "timeWeek": 616,
+    "timeMonth": 602,
+    "timeYear": 611,
+    "dailyMinutesDown": {}
   },
   {
     "name": "lookrativ.de",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 933,
-    "timeDay": 1251,
-    "timeWeek": 1041,
-    "timeMonth": 951,
-    "timeYear": 933,
+    "time": 931,
+    "timeDay": 577,
+    "timeWeek": 1019,
+    "timeMonth": 942,
+    "timeYear": 931,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 883,
-    "timeDay": 919,
-    "timeWeek": 754,
-    "timeMonth": 747,
-    "timeYear": 883,
+    "time": 881,
+    "timeDay": 601,
+    "timeWeek": 724,
+    "timeMonth": 748,
+    "timeYear": 881,
     "dailyMinutesDown": {}
   }
 ]
