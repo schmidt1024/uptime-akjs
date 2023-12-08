@@ -58,19 +58,19 @@
     "url": "https://lookrativ.de",
     "icon": "https://icons.duckduckgo.com/ip3/lookrativ.de.ico",
     "slug": "lookrativ-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.62%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 939,
-    "timeDay": 704,
-    "timeWeek": 930,
-    "timeMonth": 917,
-    "timeYear": 939,
+    "time": 938,
+    "timeDay": 706,
+    "timeWeek": 902,
+    "timeMonth": 910,
+    "timeYear": 938,
     "dailyMinutesDown": {
-      "2023-12-08": 0
+      "2023-12-08": 6
     }
   },
   {
