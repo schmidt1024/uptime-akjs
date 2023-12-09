@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 867,
-    "timeDay": 781,
-    "timeWeek": 809,
-    "timeMonth": 914,
+    "timeDay": 893,
+    "timeWeek": 805,
+    "timeMonth": 912,
     "timeYear": 867,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 610,
-    "timeDay": 633,
-    "timeWeek": 728,
-    "timeMonth": 747,
-    "timeYear": 610,
+    "time": 612,
+    "timeDay": 972,
+    "timeWeek": 774,
+    "timeMonth": 758,
+    "timeYear": 612,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 642,
-    "timeDay": 607,
-    "timeWeek": 850,
+    "time": 643,
+    "timeDay": 769,
+    "timeWeek": 851,
     "timeMonth": 772,
-    "timeYear": 642,
+    "timeYear": 643,
     "dailyMinutesDown": {}
   },
   {
@@ -60,18 +60,16 @@
     "slug": "lookrativ-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 938,
-    "timeDay": 706,
-    "timeWeek": 902,
-    "timeMonth": 910,
+    "timeDay": 789,
+    "timeWeek": 876,
+    "timeMonth": 888,
     "timeYear": 938,
-    "dailyMinutesDown": {
-      "2023-12-08": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "kunst-kasten.de",
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 857,
-    "timeDay": 601,
-    "timeWeek": 808,
-    "timeMonth": 823,
+    "timeDay": 841,
+    "timeWeek": 759,
+    "timeMonth": 816,
     "timeYear": 857,
     "dailyMinutesDown": {}
   }
