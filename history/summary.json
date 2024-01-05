@@ -4,19 +4,19 @@
     "url": "https://akjs.io",
     "icon": "https://icons.duckduckgo.com/ip3/akjs.io.ico",
     "slug": "akjs-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 870,
-    "timeDay": 998,
-    "timeWeek": 803,
-    "timeMonth": 869,
+    "timeDay": 983,
+    "timeWeek": 824,
+    "timeMonth": 872,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2024-01-05": 2
+      "2024-01-05": 6
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://xmr.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/xmr.rocks.ico",
     "slug": "xrm-rocks",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 620,
-    "timeDay": 815,
-    "timeWeek": 697,
-    "timeMonth": 699,
+    "timeDay": 795,
+    "timeWeek": 707,
+    "timeMonth": 701,
     "timeYear": 620,
     "dailyMinutesDown": {
-      "2024-01-05": 8
+      "2024-01-05": 13
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://pmnr.xmr.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/pmnr.xmr.rocks.ico",
     "slug": "pmnr-xrm-rocks",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 660,
-    "timeDay": 937,
-    "timeWeek": 751,
-    "timeMonth": 801,
-    "timeYear": 660,
+    "time": 661,
+    "timeDay": 921,
+    "timeWeek": 770,
+    "timeMonth": 804,
+    "timeYear": 661,
     "dailyMinutesDown": {
-      "2024-01-05": 8
+      "2024-01-05": 12
     }
   },
   {
@@ -64,19 +64,19 @@
     "url": "https://lookrativ.de",
     "icon": "https://icons.duckduckgo.com/ip3/lookrativ.de.ico",
     "slug": "lookrativ-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 934,
-    "timeDay": 671,
-    "timeWeek": 714,
-    "timeMonth": 873,
+    "timeDay": 816,
+    "timeWeek": 745,
+    "timeMonth": 876,
     "timeYear": 934,
     "dailyMinutesDown": {
-      "2024-01-05": 1
+      "2024-01-05": 5
     }
   },
   {
@@ -84,19 +84,19 @@
     "url": "https://kunst-kasten.de",
     "icon": "https://icons.duckduckgo.com/ip3/kunst-kasten.de.ico",
     "slug": "kunst-kasten-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 853,
-    "timeDay": 905,
-    "timeWeek": 772,
-    "timeMonth": 801,
-    "timeYear": 853,
+    "time": 854,
+    "timeDay": 975,
+    "timeWeek": 806,
+    "timeMonth": 809,
+    "timeYear": 854,
     "dailyMinutesDown": {
-      "2024-01-05": 8
+      "2024-01-05": 12
     }
   }
 ]
