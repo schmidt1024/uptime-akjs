@@ -6,18 +6,16 @@
     "slug": "akjs-io",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 870,
-    "timeDay": 983,
-    "timeWeek": 824,
-    "timeMonth": 872,
-    "timeYear": 870,
-    "dailyMinutesDown": {
-      "2024-01-05": 6
-    }
+    "time": 871,
+    "timeDay": 986,
+    "timeWeek": 837,
+    "timeMonth": 887,
+    "timeYear": 871,
+    "dailyMinutesDown": {}
   },
   {
     "name": "xrm.rocks",
@@ -26,18 +24,16 @@
     "slug": "xrm-rocks",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.13%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 620,
-    "timeDay": 795,
-    "timeWeek": 707,
-    "timeMonth": 701,
-    "timeYear": 620,
-    "dailyMinutesDown": {
-      "2024-01-05": 13
-    }
+    "time": 621,
+    "timeDay": 799,
+    "timeWeek": 721,
+    "timeMonth": 699,
+    "timeYear": 621,
+    "dailyMinutesDown": {}
   },
   {
     "name": "pmnr.xrm.rocks",
@@ -46,18 +42,16 @@
     "slug": "pmnr-xrm-rocks",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 661,
-    "timeDay": 921,
-    "timeWeek": 770,
-    "timeMonth": 804,
+    "timeDay": 832,
+    "timeWeek": 753,
+    "timeMonth": 803,
     "timeYear": 661,
-    "dailyMinutesDown": {
-      "2024-01-05": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "lookrativ.de",
@@ -66,18 +60,16 @@
     "slug": "lookrativ-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 934,
-    "timeDay": 816,
-    "timeWeek": 745,
-    "timeMonth": 876,
-    "timeYear": 934,
-    "dailyMinutesDown": {
-      "2024-01-05": 5
-    }
+    "time": 933,
+    "timeDay": 907,
+    "timeWeek": 768,
+    "timeMonth": 883,
+    "timeYear": 933,
+    "dailyMinutesDown": {}
   },
   {
     "name": "kunst-kasten.de",
@@ -86,17 +78,15 @@
     "slug": "kunst-kasten-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 854,
-    "timeDay": 975,
-    "timeWeek": 806,
-    "timeMonth": 809,
+    "timeDay": 944,
+    "timeWeek": 798,
+    "timeMonth": 815,
     "timeYear": 854,
-    "dailyMinutesDown": {
-      "2024-01-05": 12
-    }
+    "dailyMinutesDown": {}
   }
 ]
