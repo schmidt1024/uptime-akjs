@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 864,
-    "timeDay": 912,
-    "timeWeek": 766,
-    "timeMonth": 814,
+    "timeDay": 1012,
+    "timeWeek": 754,
+    "timeMonth": 816,
     "timeYear": 864,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 628,
-    "timeDay": 651,
-    "timeWeek": 592,
-    "timeMonth": 691,
+    "timeDay": 726,
+    "timeWeek": 560,
+    "timeMonth": 694,
     "timeYear": 628,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 663,
-    "timeDay": 687,
-    "timeWeek": 635,
-    "timeMonth": 687,
+    "timeDay": 491,
+    "timeWeek": 642,
+    "timeMonth": 691,
     "timeYear": 663,
     "dailyMinutesDown": {}
   },
@@ -58,19 +58,19 @@
     "url": "https://lookrativ.de",
     "icon": "https://icons.duckduckgo.com/ip3/lookrativ.de.ico",
     "slug": "lookrativ-de",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 910,
-    "timeDay": 729,
-    "timeWeek": 667,
-    "timeMonth": 694,
+    "timeDay": 781,
+    "timeWeek": 650,
+    "timeMonth": 700,
     "timeYear": 910,
     "dailyMinutesDown": {
-      "2024-02-02": 0
+      "2024-02-02": 1
     }
   },
   {
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 840,
-    "timeDay": 775,
-    "timeWeek": 718,
-    "timeMonth": 728,
+    "timeDay": 603,
+    "timeWeek": 689,
+    "timeMonth": 732,
     "timeYear": 840,
     "dailyMinutesDown": {}
   }
