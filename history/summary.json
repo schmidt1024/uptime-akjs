@@ -4,20 +4,18 @@
     "url": "https://akjs.io",
     "icon": "https://icons.duckduckgo.com/ip3/akjs.io.ico",
     "slug": "akjs-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 865,
-    "timeDay": 0,
-    "timeWeek": 823,
-    "timeMonth": 807,
-    "timeYear": 865,
-    "dailyMinutesDown": {
-      "2024-02-13": 5
-    }
+    "time": 866,
+    "timeDay": 683,
+    "timeWeek": 803,
+    "timeMonth": 803,
+    "timeYear": 866,
+    "dailyMinutesDown": {}
   },
   {
     "name": "xrm.rocks",
@@ -26,18 +24,16 @@
     "slug": "xrm-rocks",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 624,
     "timeDay": 412,
     "timeWeek": 579,
     "timeMonth": 624,
     "timeYear": 624,
-    "dailyMinutesDown": {
-      "2024-02-13": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "pmnr.xrm.rocks",
