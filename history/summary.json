@@ -4,54 +4,60 @@
     "url": "https://akjs.io",
     "icon": "https://icons.duckduckgo.com/ip3/akjs.io.ico",
     "slug": "akjs-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 874,
-    "timeDay": 572,
+    "timeDay": 0,
     "timeWeek": 1168,
-    "timeMonth": 911,
+    "timeMonth": 913,
     "timeYear": 874,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-20": 0
+    }
   },
   {
     "name": "xrm.rocks",
     "url": "https://xmr.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/xmr.rocks.ico",
     "slug": "xrm-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 624,
     "timeDay": 396,
     "timeWeek": 590,
-    "timeMonth": 582,
+    "timeMonth": 573,
     "timeYear": 624,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-20": 0
+    }
   },
   {
     "name": "pmnr.xrm.rocks",
     "url": "https://pmnr.xmr.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/pmnr.xmr.rocks.ico",
     "slug": "pmnr-xrm-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 670,
-    "timeDay": 484,
-    "timeWeek": 1003,
-    "timeMonth": 731,
+    "timeDay": 0,
+    "timeWeek": 537,
+    "timeMonth": 733,
     "timeYear": 670,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-20": 0
+    }
   },
   {
     "name": "lookrativ.de",
@@ -65,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 902,
-    "timeDay": 574,
-    "timeWeek": 743,
-    "timeMonth": 713,
+    "timeDay": 0,
+    "timeWeek": 705,
+    "timeMonth": 712,
     "timeYear": 902,
     "dailyMinutesDown": {}
   },
@@ -83,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 836,
-    "timeDay": 603,
-    "timeWeek": 754,
-    "timeMonth": 733,
+    "timeDay": 0,
+    "timeWeek": 715,
+    "timeMonth": 731,
     "timeYear": 836,
     "dailyMinutesDown": {}
   }
