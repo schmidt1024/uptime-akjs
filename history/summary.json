@@ -6,18 +6,16 @@
     "slug": "akjs-io",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 873,
     "timeDay": 679,
     "timeWeek": 1167,
     "timeMonth": 905,
     "timeYear": 873,
-    "dailyMinutesDown": {
-      "2024-02-20": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "xrm.rocks",
@@ -26,18 +24,16 @@
     "slug": "xrm-rocks",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 623,
     "timeDay": 298,
     "timeWeek": 574,
     "timeMonth": 564,
     "timeYear": 623,
-    "dailyMinutesDown": {
-      "2024-02-20": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "pmnr.xrm.rocks",
@@ -46,18 +42,16 @@
     "slug": "pmnr-xrm-rocks",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 669,
     "timeDay": 495,
     "timeWeek": 531,
     "timeMonth": 725,
     "timeYear": 669,
-    "dailyMinutesDown": {
-      "2024-02-20": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "lookrativ.de",
