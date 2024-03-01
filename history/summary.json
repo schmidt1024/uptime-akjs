@@ -13,7 +13,7 @@
     "time": 886,
     "timeDay": 788,
     "timeWeek": 1516,
-    "timeMonth": 1077,
+    "timeMonth": 1105,
     "timeYear": 886,
     "dailyMinutesDown": {}
   },
@@ -31,7 +31,7 @@
     "time": 623,
     "timeDay": 687,
     "timeWeek": 690,
-    "timeMonth": 573,
+    "timeMonth": 577,
     "timeYear": 623,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 669,
     "timeDay": 893,
     "timeWeek": 743,
-    "timeMonth": 727,
+    "timeMonth": 737,
     "timeYear": 669,
     "dailyMinutesDown": {}
   },
@@ -67,7 +67,7 @@
     "time": 902,
     "timeDay": 670,
     "timeWeek": 973,
-    "timeMonth": 791,
+    "timeMonth": 807,
     "timeYear": 902,
     "dailyMinutesDown": {}
   },
@@ -78,17 +78,15 @@
     "slug": "kunst-kasten-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 836,
     "timeDay": 845,
     "timeWeek": 870,
-    "timeMonth": 775,
+    "timeMonth": 784,
     "timeYear": 836,
-    "dailyMinutesDown": {
-      "2024-02-29": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
