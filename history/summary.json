@@ -58,9 +58,9 @@
     "url": "https://lookrativ.de",
     "icon": "https://icons.duckduckgo.com/ip3/lookrativ.de.ico",
     "slug": "lookrativ-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 1004,
     "timeMonth": 809,
     "timeYear": 901,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-03": 0
+    }
   },
   {
     "name": "kunst-kasten.de",
