@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 892,
-    "timeDay": 578,
-    "timeWeek": 1083,
-    "timeMonth": 1143,
-    "timeYear": 892,
+    "time": 891,
+    "timeDay": 565,
+    "timeWeek": 938,
+    "timeMonth": 1128,
+    "timeYear": 891,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 622,
-    "timeDay": 722,
-    "timeWeek": 643,
-    "timeMonth": 592,
-    "timeYear": 622,
+    "time": 621,
+    "timeDay": 548,
+    "timeWeek": 570,
+    "timeMonth": 578,
+    "timeYear": 621,
     "dailyMinutesDown": {}
   },
   {
@@ -40,18 +40,20 @@
     "url": "https://pmnr.xmr.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/pmnr.xmr.rocks.ico",
     "slug": "pmnr-xrm-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 672,
     "timeDay": 785,
-    "timeWeek": 816,
-    "timeMonth": 786,
+    "timeWeek": 817,
+    "timeMonth": 781,
     "timeYear": 672,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-09": 0
+    }
   },
   {
     "name": "lookrativ.de",
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 904,
-    "timeDay": 573,
-    "timeWeek": 1006,
-    "timeMonth": 863,
-    "timeYear": 904,
+    "time": 902,
+    "timeDay": 562,
+    "timeWeek": 954,
+    "timeMonth": 849,
+    "timeYear": 902,
     "dailyMinutesDown": {}
   },
   {
@@ -83,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 835,
-    "timeDay": 619,
-    "timeWeek": 858,
-    "timeMonth": 806,
+    "timeDay": 600,
+    "timeWeek": 807,
+    "timeMonth": 794,
     "timeYear": 835,
     "dailyMinutesDown": {}
   }
