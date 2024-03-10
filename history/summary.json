@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 891,
-    "timeDay": 551,
-    "timeWeek": 938,
-    "timeMonth": 1128,
+    "timeDay": 799,
+    "timeWeek": 874,
+    "timeMonth": 1136,
     "timeYear": 891,
     "dailyMinutesDown": {}
   },
@@ -22,36 +22,40 @@
     "url": "https://xmr.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/xmr.rocks.ico",
     "slug": "xrm-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 621,
-    "timeDay": 373,
-    "timeWeek": 570,
-    "timeMonth": 578,
+    "timeDay": 0,
+    "timeWeek": 565,
+    "timeMonth": 585,
     "timeYear": 621,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-10": 0
+    }
   },
   {
     "name": "pmnr.xrm.rocks",
     "url": "https://pmnr.xmr.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/pmnr.xmr.rocks.ico",
     "slug": "pmnr-xrm-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 671,
     "timeDay": 479,
-    "timeWeek": 769,
+    "timeWeek": 711,
     "timeMonth": 771,
     "timeYear": 671,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-10": 0
+    }
   },
   {
     "name": "lookrativ.de",
@@ -65,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 902,
-    "timeDay": 551,
-    "timeWeek": 954,
-    "timeMonth": 849,
+    "timeDay": 664,
+    "timeWeek": 863,
+    "timeMonth": 852,
     "timeYear": 902,
     "dailyMinutesDown": {}
   },
@@ -82,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 581,
-    "timeWeek": 807,
-    "timeMonth": 794,
-    "timeYear": 835,
+    "time": 834,
+    "timeDay": 724,
+    "timeWeek": 777,
+    "timeMonth": 798,
+    "timeYear": 834,
     "dailyMinutesDown": {}
   }
 ]
