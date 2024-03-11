@@ -24,18 +24,16 @@
     "slug": "xrm-rocks",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 621,
     "timeDay": 616,
     "timeWeek": 572,
     "timeMonth": 586,
     "timeYear": 621,
-    "dailyMinutesDown": {
-      "2024-03-10": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "pmnr.xrm.rocks",
@@ -44,18 +42,16 @@
     "slug": "pmnr-xrm-rocks",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 671,
     "timeDay": 722,
     "timeWeek": 712,
     "timeMonth": 769,
     "timeYear": 671,
-    "dailyMinutesDown": {
-      "2024-03-10": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "lookrativ.de",
