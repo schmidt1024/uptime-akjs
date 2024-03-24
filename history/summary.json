@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 889,
-    "timeDay": 759,
+    "timeDay": 685,
     "timeWeek": 711,
     "timeMonth": 1059,
     "timeYear": 889,
@@ -22,19 +22,19 @@
     "url": "https://xmr.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/xmr.rocks.ico",
     "slug": "xrm-rocks",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 620,
-    "timeDay": 0,
-    "timeWeek": 414,
-    "timeMonth": 601,
-    "timeYear": 620,
+    "time": 621,
+    "timeDay": 646,
+    "timeWeek": 447,
+    "timeMonth": 602,
+    "timeYear": 621,
     "dailyMinutesDown": {
-      "2024-03-24": 0
+      "2024-03-24": 5
     }
   },
   {
