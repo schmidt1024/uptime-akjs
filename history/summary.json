@@ -24,18 +24,16 @@
     "slug": "xrm-rocks",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 621,
     "timeDay": 646,
     "timeWeek": 447,
     "timeMonth": 602,
     "timeYear": 621,
-    "dailyMinutesDown": {
-      "2024-03-24": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "pmnr.xrm.rocks",
