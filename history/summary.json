@@ -40,19 +40,19 @@
     "url": "https://pmnr.xmr.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/pmnr.xmr.rocks.ico",
     "slug": "pmnr-xrm-rocks",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 676,
-    "timeDay": 0,
-    "timeWeek": 925,
-    "timeMonth": 783,
+    "timeDay": 701,
+    "timeWeek": 893,
+    "timeMonth": 780,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2024-03-26": 0
+      "2024-03-26": 8
     }
   },
   {
@@ -85,8 +85,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 834,
-    "timeDay": 915,
-    "timeWeek": 751,
+    "timeDay": 0,
+    "timeWeek": 784,
     "timeMonth": 814,
     "timeYear": 834,
     "dailyMinutesDown": {}
