@@ -78,17 +78,15 @@
     "slug": "kunst-kasten-de",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 834,
     "timeDay": 915,
     "timeWeek": 751,
     "timeMonth": 818,
     "timeYear": 834,
-    "dailyMinutesDown": {
-      "2024-03-25": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
