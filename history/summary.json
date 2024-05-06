@@ -4,9 +4,9 @@
     "url": "https://akjs.io",
     "icon": "https://icons.duckduckgo.com/ip3/akjs.io.ico",
     "slug": "akjs-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,16 +15,18 @@
     "timeWeek": 728,
     "timeMonth": 844,
     "timeYear": 887,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-06": 0
+    }
   },
   {
     "name": "xrm.rocks",
     "url": "https://xmr.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/xmr.rocks.ico",
     "slug": "xrm-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,16 +35,18 @@
     "timeWeek": 989,
     "timeMonth": 629,
     "timeYear": 626,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-06": 0
+    }
   },
   {
     "name": "pmnr.xrm.rocks",
     "url": "https://pmnr.xmr.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/pmnr.xmr.rocks.ico",
     "slug": "pmnr-xrm-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,16 +55,18 @@
     "timeWeek": 486,
     "timeMonth": 585,
     "timeYear": 675,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-06": 0
+    }
   },
   {
     "name": "lookrativ.de",
     "url": "https://lookrativ.de",
     "icon": "https://icons.duckduckgo.com/ip3/lookrativ.de.ico",
     "slug": "lookrativ-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +75,18 @@
     "timeWeek": 603,
     "timeMonth": 764,
     "timeYear": 883,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-06": 0
+    }
   },
   {
     "name": "kunst-kasten.de",
     "url": "https://kunst-kasten.de",
     "icon": "https://icons.duckduckgo.com/ip3/kunst-kasten.de.ico",
     "slug": "kunst-kasten-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,6 +95,8 @@
     "timeWeek": 692,
     "timeMonth": 783,
     "timeYear": 828,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-06": 0
+    }
   }
 ]
