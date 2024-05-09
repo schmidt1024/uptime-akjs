@@ -4,10 +4,10 @@
     "url": "https://akjs.io",
     "icon": "https://icons.duckduckgo.com/ip3/akjs.io.ico",
     "slug": "akjs-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.55%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 884,
@@ -16,6 +16,7 @@
     "timeMonth": 847,
     "timeYear": 886,
     "dailyMinutesDown": {
+      "2024-05-09": 0,
       "2024-05-06": 46
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://xmr.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/xmr.rocks.ico",
     "slug": "xrm-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.55%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.54%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 615,
@@ -36,6 +37,7 @@
     "timeMonth": 610,
     "timeYear": 623,
     "dailyMinutesDown": {
+      "2024-05-09": 0,
       "2024-05-06": 46
     }
   },
