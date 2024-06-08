@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 884,
-    "timeDay": 1324,
-    "timeWeek": 874,
-    "timeMonth": 870,
+    "time": 883,
+    "timeDay": 772,
+    "timeWeek": 902,
+    "timeMonth": 872,
     "timeYear": 888,
     "dailyMinutesDown": {
       "2024-05-06": 46
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 612,
-    "timeDay": 480,
-    "timeWeek": 550,
-    "timeMonth": 561,
+    "timeDay": 403,
+    "timeWeek": 522,
+    "timeMonth": 564,
     "timeYear": 631,
     "dailyMinutesDown": {
       "2024-05-06": 46
@@ -46,17 +46,16 @@
     "slug": "pmnr-xrm-rocks",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 670,
-    "timeDay": 576,
-    "timeWeek": 597,
-    "timeMonth": 685,
-    "timeYear": 669,
+    "timeDay": 494,
+    "timeWeek": 598,
+    "timeMonth": 689,
+    "timeYear": 670,
     "dailyMinutesDown": {
-      "2024-06-07": 6,
       "2024-05-06": 46
     }
   },
@@ -72,10 +71,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 876,
-    "timeDay": 966,
-    "timeWeek": 856,
-    "timeMonth": 800,
-    "timeYear": 866,
+    "timeDay": 619,
+    "timeWeek": 863,
+    "timeMonth": 805,
+    "timeYear": 862,
     "dailyMinutesDown": {
       "2024-05-06": 46
     }
@@ -87,17 +86,16 @@
     "slug": "kunst-kasten-de",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 838,
-    "timeDay": 781,
-    "timeWeek": 750,
-    "timeMonth": 774,
+    "time": 837,
+    "timeDay": 594,
+    "timeWeek": 752,
+    "timeMonth": 773,
     "timeYear": 827,
     "dailyMinutesDown": {
-      "2024-06-07": 5,
       "2024-05-06": 46
     }
   }
