@@ -4,9 +4,9 @@
     "url": "https://akjs.io",
     "icon": "https://icons.duckduckgo.com/ip3/akjs.io.ico",
     "slug": "akjs-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 881,
     "timeYear": 890,
     "dailyMinutesDown": {
+      "2024-07-18": 0,
       "2024-05-06": 46
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://xmr.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/xmr.rocks.ico",
     "slug": "xrm-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -36,6 +37,7 @@
     "timeMonth": 529,
     "timeYear": 626,
     "dailyMinutesDown": {
+      "2024-07-18": 0,
       "2024-05-06": 46
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://pmnr.xmr.rocks",
     "icon": "https://icons.duckduckgo.com/ip3/pmnr.xmr.rocks.ico",
     "slug": "pmnr-xrm-rocks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -56,6 +58,7 @@
     "timeMonth": 661,
     "timeYear": 683,
     "dailyMinutesDown": {
+      "2024-07-18": 0,
       "2024-05-06": 46
     }
   },
