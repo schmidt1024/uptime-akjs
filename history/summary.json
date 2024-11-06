@@ -4,18 +4,19 @@
     "url": "https://akjs.io",
     "icon": "https://icons.duckduckgo.com/ip3/akjs.io.ico",
     "slug": "akjs-io",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 845,
-    "timeDay": 648,
-    "timeWeek": 713,
-    "timeMonth": 702,
-    "timeYear": 840,
+    "timeDay": 0,
+    "timeWeek": 710,
+    "timeMonth": 698,
+    "timeYear": 839,
     "dailyMinutesDown": {
+      "2024-11-06": 0,
       "2024-05-06": 46
     }
   },
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 613,
-    "timeDay": 376,
-    "timeWeek": 540,
-    "timeMonth": 537,
-    "timeYear": 604,
+    "time": 617,
+    "timeDay": 2520,
+    "timeWeek": 824,
+    "timeMonth": 597,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2024-05-06": 46
     }
@@ -50,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 694,
-    "timeDay": 568,
-    "timeWeek": 778,
-    "timeMonth": 652,
-    "timeYear": 714,
+    "time": 695,
+    "timeDay": 774,
+    "timeWeek": 769,
+    "timeMonth": 655,
+    "timeYear": 713,
     "dailyMinutesDown": {
       "2024-05-06": 46
     }
@@ -71,10 +72,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 832,
-    "timeDay": 964,
-    "timeWeek": 871,
-    "timeMonth": 770,
-    "timeYear": 793,
+    "timeDay": 923,
+    "timeWeek": 861,
+    "timeMonth": 767,
+    "timeYear": 792,
     "dailyMinutesDown": {
       "2024-05-06": 46
     }
@@ -90,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 824,
-    "timeDay": 793,
-    "timeWeek": 897,
-    "timeMonth": 825,
-    "timeYear": 818,
+    "time": 822,
+    "timeDay": 877,
+    "timeWeek": 888,
+    "timeMonth": 813,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2024-05-06": 46
     }
