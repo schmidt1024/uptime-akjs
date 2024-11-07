@@ -6,8 +6,8 @@
     "slug": "akjs-io",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 845,
@@ -16,7 +16,6 @@
     "timeMonth": 703,
     "timeYear": 839,
     "dailyMinutesDown": {
-      "2024-11-06": 2,
       "2024-05-06": 46
     }
   },
