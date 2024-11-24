@@ -6,7 +6,7 @@
     "slug": "akjs-io",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "0.01%",
+    "uptimeDay": "4.20%",
     "uptimeWeek": "71.41%",
     "uptimeMonth": "93.31%",
     "uptimeYear": "99.43%",
@@ -30,8 +30,8 @@
     "slug": "xrm-rocks",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 618,
@@ -40,7 +40,6 @@
     "timeMonth": 624,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2024-11-23": 2,
       "2024-05-06": 46
     }
   },
@@ -51,8 +50,8 @@
     "slug": "pmnr-xrm-rocks",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.89%",
-    "uptimeWeek": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 705,
@@ -61,7 +60,6 @@
     "timeMonth": 806,
     "timeYear": 721,
     "dailyMinutesDown": {
-      "2024-11-23": 2,
       "2024-05-06": 46
     }
   },
