@@ -4,19 +4,19 @@
     "url": "https://akjs.io",
     "icon": "https://icons.duckduckgo.com/ip3/akjs.io.ico",
     "slug": "akjs-io",
-    "status": "down",
+    "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "71.41%",
-    "uptimeMonth": "93.31%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "71.39%",
+    "uptimeMonth": "93.30%",
     "uptimeYear": "99.43%",
     "time": 846,
-    "timeDay": 0,
-    "timeWeek": 653,
-    "timeMonth": 807,
-    "timeYear": 837,
+    "timeDay": 709,
+    "timeWeek": 643,
+    "timeMonth": 804,
+    "timeYear": 835,
     "dailyMinutesDown": {
-      "2024-11-25": 0,
+      "2024-11-25": 3,
       "2024-11-23": 1383,
       "2024-11-22": 1440,
       "2024-11-21": 59,
@@ -39,7 +39,7 @@
     "timeDay": 2173,
     "timeWeek": 777,
     "timeMonth": 679,
-    "timeYear": 608,
+    "timeYear": 607,
     "dailyMinutesDown": {
       "2024-05-06": 46
     }
@@ -59,7 +59,7 @@
     "timeDay": 662,
     "timeWeek": 892,
     "timeMonth": 820,
-    "timeYear": 722,
+    "timeYear": 721,
     "dailyMinutesDown": {
       "2024-05-06": 46
     }
