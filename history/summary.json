@@ -6,15 +6,15 @@
     "slug": "akjs-io",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "98.43%",
-    "uptimeWeek": "71.19%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "71.81%",
     "uptimeMonth": "93.26%",
     "uptimeYear": "99.43%",
     "time": 872,
-    "timeDay": 4494,
-    "timeWeek": 2220,
-    "timeMonth": 1214,
-    "timeYear": 874,
+    "timeDay": 627,
+    "timeWeek": 2217,
+    "timeMonth": 1213,
+    "timeYear": 873,
     "dailyMinutesDown": {
       "2024-11-27": 23,
       "2024-11-23": 1383,
@@ -35,11 +35,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 621,
-    "timeDay": 1059,
-    "timeWeek": 837,
-    "timeMonth": 701,
-    "timeYear": 606,
+    "time": 622,
+    "timeDay": 644,
+    "timeWeek": 823,
+    "timeMonth": 706,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2024-05-06": 46
     }
@@ -56,10 +56,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 706,
-    "timeDay": 619,
-    "timeWeek": 634,
-    "timeMonth": 815,
-    "timeYear": 720,
+    "timeDay": 494,
+    "timeWeek": 617,
+    "timeMonth": 811,
+    "timeYear": 719,
     "dailyMinutesDown": {
       "2024-05-06": 46
     }
@@ -75,11 +75,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 832,
-    "timeDay": 625,
-    "timeWeek": 1326,
-    "timeMonth": 911,
-    "timeYear": 795,
+    "time": 831,
+    "timeDay": 587,
+    "timeWeek": 963,
+    "timeMonth": 899,
+    "timeYear": 794,
     "dailyMinutesDown": {
       "2024-05-06": 46
     }
@@ -95,11 +95,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 824,
-    "timeDay": 657,
-    "timeWeek": 691,
-    "timeMonth": 864,
-    "timeYear": 820,
+    "time": 822,
+    "timeDay": 627,
+    "timeWeek": 677,
+    "timeMonth": 851,
+    "timeYear": 819,
     "dailyMinutesDown": {
       "2024-05-06": 46
     }
