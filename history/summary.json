@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/akjs.io.ico",
     "slug": "akjs-io",
     "status": "up",
-    "uptime": "99.66%",
+    "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
-    "time": 871,
-    "timeDay": 707,
-    "timeWeek": 784,
-    "timeMonth": 786,
+    "time": 870,
+    "timeDay": 687,
+    "timeWeek": 791,
+    "timeMonth": 775,
     "timeYear": 869,
     "dailyMinutesDown": {
       "2024-12-03": 38,
@@ -37,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 624,
-    "timeDay": 635,
-    "timeWeek": 639,
-    "timeMonth": 689,
+    "timeDay": 566,
+    "timeWeek": 649,
+    "timeMonth": 688,
     "timeYear": 601,
     "dailyMinutesDown": {
       "2024-05-06": 46
@@ -57,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 711,
-    "timeDay": 515,
-    "timeWeek": 711,
-    "timeMonth": 681,
+    "timeDay": 669,
+    "timeWeek": 722,
+    "timeMonth": 677,
     "timeYear": 705,
     "dailyMinutesDown": {
       "2024-05-06": 46
@@ -77,10 +77,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 828,
-    "timeDay": 1024,
-    "timeWeek": 904,
-    "timeMonth": 869,
-    "timeYear": 789,
+    "timeDay": 979,
+    "timeWeek": 928,
+    "timeMonth": 870,
+    "timeYear": 790,
     "dailyMinutesDown": {
       "2024-05-06": 46
     }
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 813,
-    "timeDay": 886,
-    "timeWeek": 825,
-    "timeMonth": 807,
+    "timeDay": 729,
+    "timeWeek": 832,
+    "timeMonth": 800,
     "timeYear": 817,
     "dailyMinutesDown": {
       "2024-05-06": 46
