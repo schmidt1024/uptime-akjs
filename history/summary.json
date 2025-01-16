@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
     "time": 880,
-    "timeDay": 2467,
-    "timeWeek": 1563,
+    "timeDay": 839,
+    "timeWeek": 1585,
     "timeMonth": 917,
     "timeYear": 881,
     "dailyMinutesDown": {
@@ -37,10 +37,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 623,
-    "timeDay": 715,
-    "timeWeek": 496,
-    "timeMonth": 677,
-    "timeYear": 597,
+    "timeDay": 689,
+    "timeWeek": 514,
+    "timeMonth": 678,
+    "timeYear": 595,
     "dailyMinutesDown": {
       "2024-05-06": 46
     }
@@ -57,9 +57,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 710,
-    "timeDay": 532,
-    "timeWeek": 590,
-    "timeMonth": 666,
+    "timeDay": 697,
+    "timeWeek": 594,
+    "timeMonth": 658,
     "timeYear": 703,
     "dailyMinutesDown": {
       "2024-05-06": 46
@@ -77,10 +77,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 824,
-    "timeDay": 604,
-    "timeWeek": 796,
-    "timeMonth": 854,
-    "timeYear": 790,
+    "timeDay": 1008,
+    "timeWeek": 800,
+    "timeMonth": 855,
+    "timeYear": 791,
     "dailyMinutesDown": {
       "2024-05-06": 46
     }
@@ -91,16 +91,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/kunst-kasten.de.ico",
     "slug": "kunst-kasten-de",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 813,
-    "timeDay": 649,
-    "timeWeek": 745,
-    "timeMonth": 777,
-    "timeYear": 817,
+    "timeDay": 973,
+    "timeWeek": 779,
+    "timeMonth": 778,
+    "timeYear": 818,
     "dailyMinutesDown": {
       "2024-05-06": 46
     }
